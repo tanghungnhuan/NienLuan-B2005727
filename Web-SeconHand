@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Welecom to VietNam</title>
+        <link rel="icon" href="./upload/logodulichht.png">
+        <link rel="stylesheet" href="./include/fontawesome/css/all.css">
+        <link rel="stylesheet" href="./include/style/bootstrap.css">
+        <link rel="stylesheet" href="include/mystyle45646.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+
+
+        <?php session_start(); ?>
+        <style>
+
+            .box-posts{
+                background: #EEE5DE;
+                border:none;
+                border-radius: 15px;
+                box-shadow: 0px 0px 5px 5px #aaa;
+            }
+            .box-posts:hover{
+                box-shadow: 0px 0px 5px 5px #789;
+            }
+        </style>
+
+    </head>
+    <body>
+        
+   
+   
+</body>
+</html>
